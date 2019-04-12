@@ -1,0 +1,4 @@
+﻿  Source2.cpp
+LINK : warning LNK4081: insufficient disk space; linking nonincrementally
+  morsecode.vcxproj -> \\kc.umkc.edu\kc-users\home\s\shnkcc\My Documents\Visual Studio 2017\Projects\morsecode\Debug\morsecode.exe
+  morsecode.vcxproj -> \\kc.umkc.edu\kc-users\home\s\shnkcc\My Documents\Visual Studio 2017\Projects\morsecode\Debug\morsecode.pdb (Partial PDB)
